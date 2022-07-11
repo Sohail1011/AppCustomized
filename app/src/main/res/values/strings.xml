@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAppCustomized</string>
+    <string name="login_title">Log in to Account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Start</string>
+    <string name="register_btn">Register</string>
+    <string name="descr_imbF">Facebook</string>
+    <string name="descr_imbS">Skip</string>
+</resources>
